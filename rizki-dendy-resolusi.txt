@@ -1,6 +1,6 @@
 Resolusi saya kedepannya :
-1. Konsisten dalam belajar programming
-2. Berkontribusi bagi ummat dibidang teknologi
-3. Membuat wadah diskusi untuk para programmer cinta sunnah
-4. Membuat website dakwah
-5. Menyelesaikan project laravel
+- Konsisten dalam belajar programming
+- Membuat wadah diskusi untuk para programmer cinta sunnah
+- Membuat website dakwah
+- Menyelesaikan project laravel
+- Menyelenggarakan workshop ramadhan
